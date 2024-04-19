@@ -1,0 +1,23 @@
+body{
+    background-color: lightblue;
+}
+
+img{
+    width: 300px;
+    align-items: center;
+}
+
+.tabela1 {
+    border-collapse: collapse;
+    width: 90%;
+}
+
+.celula, .linha {
+    border: 1px solid ;
+    padding: 8px;
+    text-align: center;
+}
+
+.celula {
+    background-color: rgb(125, 156, 167)
+}
